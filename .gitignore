@@ -1,0 +1,33 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local database / old local task data
+*.db
+tasks.json
+
+# Secrets / environment variables
+.env
+.env.*
+groq key.txt
+
+# Node dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+groq key.txt
+.env
+.env.*
